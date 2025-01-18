@@ -36,4 +36,4 @@ This project demonstrates the implementation of *Binary Search* and *Linear Sear
 - *Documentation:* Includes this README file explaining the project in detail.
 - *Efficiency:* Shows the practical time complexity of each algorithm.
 ## LinkdIn Post Link
- [Check Here Linkdin Post](#)
+ [Check Here Linkdin Post](https://www.linkedin.com/posts/wajahat-khan-971833347_github-mwajahatkhanzsearching-algorithm-activity-7286408779938627585-aO9g?utm_source=share&utm_medium=member_desktop)
